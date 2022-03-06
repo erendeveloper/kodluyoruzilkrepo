@@ -1,0 +1,15 @@
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.csproj.AssemblyReference.cache
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.AssemblyInfo.cs
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\diziler-array-sinifi\bin\Debug\net6.0\diziler-array-sinifi.exe
+C:\Users\EA\Desktop\diziler-array-sinifi\bin\Debug\net6.0\diziler-array-sinifi.deps.json
+C:\Users\EA\Desktop\diziler-array-sinifi\bin\Debug\net6.0\diziler-array-sinifi.runtimeconfig.json
+C:\Users\EA\Desktop\diziler-array-sinifi\bin\Debug\net6.0\diziler-array-sinifi.dll
+C:\Users\EA\Desktop\diziler-array-sinifi\bin\Debug\net6.0\diziler-array-sinifi.pdb
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.dll
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\refint\diziler-array-sinifi.dll
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.pdb
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\diziler-array-sinifi.genruntimeconfig.cache
+C:\Users\EA\Desktop\diziler-array-sinifi\obj\Debug\net6.0\ref\diziler-array-sinifi.dll
