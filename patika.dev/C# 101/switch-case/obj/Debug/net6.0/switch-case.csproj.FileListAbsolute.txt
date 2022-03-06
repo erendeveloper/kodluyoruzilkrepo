@@ -1,0 +1,15 @@
+C:\Users\EA\Desktop\switch-case\bin\Debug\net6.0\switch-case.exe
+C:\Users\EA\Desktop\switch-case\bin\Debug\net6.0\switch-case.deps.json
+C:\Users\EA\Desktop\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+C:\Users\EA\Desktop\switch-case\bin\Debug\net6.0\switch-case.dll
+C:\Users\EA\Desktop\switch-case\bin\Debug\net6.0\switch-case.pdb
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.dll
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\refint\switch-case.dll
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.pdb
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
+C:\Users\EA\Desktop\switch-case\obj\Debug\net6.0\ref\switch-case.dll
