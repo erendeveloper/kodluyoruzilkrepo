@@ -1,0 +1,15 @@
+C:\Users\EA\Desktop\algoritma-sorular\bin\Debug\net6.0\algoritma-sorular.exe
+C:\Users\EA\Desktop\algoritma-sorular\bin\Debug\net6.0\algoritma-sorular.deps.json
+C:\Users\EA\Desktop\algoritma-sorular\bin\Debug\net6.0\algoritma-sorular.runtimeconfig.json
+C:\Users\EA\Desktop\algoritma-sorular\bin\Debug\net6.0\algoritma-sorular.dll
+C:\Users\EA\Desktop\algoritma-sorular\bin\Debug\net6.0\algoritma-sorular.pdb
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.csproj.AssemblyReference.cache
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.AssemblyInfo.cs
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.dll
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\refint\algoritma-sorular.dll
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.pdb
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\algoritma-sorular.genruntimeconfig.cache
+C:\Users\EA\Desktop\algoritma-sorular\obj\Debug\net6.0\ref\algoritma-sorular.dll

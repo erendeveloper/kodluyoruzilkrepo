@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "algoritma-sorular/1.0.0": {
+        "runtime": {
+          "algoritma-sorular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritma-sorular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
