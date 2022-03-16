@@ -3,7 +3,7 @@
 namespace algoritma_sorular{
     class Program{
         static void Main(string[] args){
-            /*
+            
             int n,m;
             //soru 1
             Console.WriteLine("Pozitif sayi gir");
@@ -48,7 +48,7 @@ namespace algoritma_sorular{
             for(int i=n-1; i>=0; i--){
                 Console.Write(kelimeler[i]+" ");
             }
-            */
+            
             //soru4
             Console.WriteLine("Cumle yaz");
             string cumle = Console.ReadLine();
