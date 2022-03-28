@@ -1,0 +1,15 @@
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.exe
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.deps.json
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.dll
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.pdb
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.dll
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\refint\static-sinif-ve-uyeler.dll
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.pdb
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+C:\Users\EA\Desktop\static-sinif-ve-uyeler\obj\Debug\net6.0\ref\static-sinif-ve-uyeler.dll
