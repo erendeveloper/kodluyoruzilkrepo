@@ -1,0 +1,15 @@
+C:\Users\EA\Desktop\csharp_enum\bin\Debug\net6.0\csharp_enum.exe
+C:\Users\EA\Desktop\csharp_enum\bin\Debug\net6.0\csharp_enum.deps.json
+C:\Users\EA\Desktop\csharp_enum\bin\Debug\net6.0\csharp_enum.runtimeconfig.json
+C:\Users\EA\Desktop\csharp_enum\bin\Debug\net6.0\csharp_enum.dll
+C:\Users\EA\Desktop\csharp_enum\bin\Debug\net6.0\csharp_enum.pdb
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.csproj.AssemblyReference.cache
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.AssemblyInfo.cs
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.dll
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\refint\csharp_enum.dll
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.pdb
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\csharp_enum.genruntimeconfig.cache
+C:\Users\EA\Desktop\csharp_enum\obj\Debug\net6.0\ref\csharp_enum.dll
