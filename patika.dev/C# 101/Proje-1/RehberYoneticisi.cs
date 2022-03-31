@@ -9,13 +9,13 @@ namespace Proje_1
         public void KisiEkle(){
             string ad, soyad, telefonNo;
 
-            Console.WriteLine("Lütfen isim giriniz             :");   
-            Console.WriteLine("Lütfen soyisim giriniz          :"); 
-            Console.WriteLine("Lütfen telefon numarasi giriniz :");          
+            Console.Write("Lütfen isim giriniz             :");   
             ad=Console.ReadLine();
+            Console.Write("Lütfen soyisim giriniz          :"); 
             soyad=Console.ReadLine();
+            Console.Write("Lütfen telefon numarasi giriniz :");          
             telefonNo=Console.ReadLine();
-
+            
             rehber.Kaydet(new Kisi(ad,soyad,telefonNo));
             RehberiListele();
          }
@@ -45,24 +45,18 @@ namespace Proje_1
                     Console.WriteLine("Aradiginiz krtiterlere uygun veri rehberde bulunamadi.Lütfen bir seçim yapiniz.");
                     Console.WriteLine("* Silmeyi sonlandirmak icin : (1)");
                     Console.WriteLine("* Yeniden denemek için      : (2)");
-                    int islemNo;
-                    while(true){           
-                       try{
-                           islemNo=int.Parse(Console.ReadLine());
-                           if(islemNo>=1 && islemNo<=2)
-                              break;                  
-                       }
-                       catch(Exception e){
-                           Console.WriteLine(e.ToString());
-                       }
+                    string islem;
+                    while(true){     
+                        islem=Console.ReadLine(); 
+                        if(islem=="1" || islem=="2"){
+                           break;
+                        }
                     }
-                    if(islemNo==1){
+                    if(islem=="1"){
                         break;
                     }
-                    else
-                        continue;
-                }
-            }            
+                }  
+            }          
         }
         public void KisininNumarasiGuncelle(){
             string isim;
@@ -83,21 +77,16 @@ namespace Proje_1
                     Console.WriteLine("* Güncellemeyi sonlandirmak için    : (1)");
                     Console.WriteLine("* Yeniden denemek için              : (2)");
                     int islemNo;
-                    while(true){           
-                       try{
-                           islemNo=int.Parse(Console.ReadLine());
-                           if(islemNo>=1 && islemNo<=2)
-                              break;                  
-                       }
-                       catch(Exception e){
-                           Console.WriteLine(e.ToString());
-                       }
+                    string islem;
+                    while(true){     
+                        islem=Console.ReadLine();
+                        if(islem=="1" || islem=="2"){
+                           break;
+                        }
                     }
-                    if(islemNo==1){
+                    if(islem=="1"){
                         break;
                     }
-                    else
-                        continue;
                 }
             } 
         }
@@ -113,24 +102,20 @@ namespace Proje_1
             Console.WriteLine("İsim veya soyisime göre arama yapmak için: (1)");
             Console.WriteLine("Telefon numarasina göre arama yapmak için: (2)");
             List<Kisi> kisiListesi;
-            int islemNo;
-            while(true){           
-                try{
-                    islemNo=int.Parse(Console.ReadLine());
-                    if(islemNo>=1 && islemNo<=2)
-                        break;                  
-                }
-                catch(Exception e){
-                    Console.WriteLine(e.ToString());
+            string islem;
+            while(true){     
+                islem=Console.ReadLine();
+                if(islem=="1" || islem=="2"){
+                   break;
                 }
             }
             while(true){
-                if(islemNo==1){
+                if(islem=="1"){
                     Console.WriteLine("Ad veya soyad gir");
                     kisiListesi=rehber.KisileriIsimIleAra(Console.ReadLine());                          
                     break;
                 }
-                else if(islemNo==2){
+                else if(islem=="2"){
                     Console.WriteLine("telefon gir");
                     kisiListesi=rehber.KisileriTelefonNoIleAra(Console.ReadLine());    
                     break;
