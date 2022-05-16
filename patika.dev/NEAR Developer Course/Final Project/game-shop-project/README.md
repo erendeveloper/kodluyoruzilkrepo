@@ -10,7 +10,7 @@ Template copied from "github.com/learn-NEAR/starter--near-sdk-as"
 near-login
 ```
 
-if near-cli not installed
+if near-cli is not installed
 
 ```
 npm install --global near-cli
@@ -18,10 +18,11 @@ npm install --global near-cli
 
 ```
 cd game-shop-project
-yarn
 
+yarn
 yarn build:release
 near dev-deploy ./build/release/simple.wasm
+
 export CONTRACT=<YOUR_ACCOUNT_ID>
 
 ```
