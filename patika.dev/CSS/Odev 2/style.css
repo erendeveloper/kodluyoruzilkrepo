@@ -1,0 +1,48 @@
+.block-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .text-center{
+    text-align: center;
+  }
+  .header-container{
+    background-color: rgb(237, 233, 233);
+    padding-bottom: 5px;
+  }
+  .left-container{
+    background-color: rgb(177, 218, 206);
+    width: 35%;
+    float:left;
+  }
+  .middle-container{
+    background-color: rgb(155, 202, 155);
+    width: 30%;
+    float: left;
+  }
+  .right-container{
+    background-color: rgb(95, 131, 102);
+    width: 35%;
+    float:left;  
+}
+  .row-buttons{
+    display: flex; 
+    justify-content: center
+  }
+  .header-text{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .footer-text{
+    font-size:14px;
+  }
+  .container-text{
+    font-size:16px;
+  }
+  .container-box{
+    display:flex;
+    flex-direction:row;
+  }
+  .left-padding-10{
+    padding-left: 10px;
+  }
